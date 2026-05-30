@@ -104,7 +104,7 @@ namespace ProductoresTekax
             }
             else
             {
-                MostrarMensaje("No se selecciono un archivo", true);
+                MostrarMensaje("No ha seleccionado un archivo", true);
             }
         }
 
