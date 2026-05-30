@@ -17,7 +17,7 @@ namespace ProductoresTekax
         List<Producto> listaProductos = new List<Producto>();
 
         string rutaImagen = "";
-         
+
         public Form1()
         {
             InitializeComponent();
