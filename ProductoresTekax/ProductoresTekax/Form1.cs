@@ -63,9 +63,9 @@ namespace ProductoresTekax
                 txtNombreProducto, txtPrecioProducto, txtDescripcionProducto, txtProductora, txtTelefono
             };
 
-            foreach (TextBox txt in campos)
+            foreach (TextBox txts in campos)
             {
-                txt.Clear();
+                txts.Clear();
             }
             if (pictureBoxImagenProducto.Image != null)
             {
